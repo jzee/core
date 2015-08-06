@@ -636,7 +636,7 @@
 			// filename td
 			td = $('<td></td>').attr({
 				"class": "filename",
-				"style": 'background-image:url(' + icon + '); background-size: 32px;'
+				"style": 'background-image:url(' + icon + '); background-size: 64px;'
 			});
 
 			// linkUrl

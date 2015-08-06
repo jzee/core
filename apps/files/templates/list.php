@@ -51,7 +51,7 @@
 
 <div id="emptycontent" class="hidden"><?php p($l->t('Nothing in here. Upload something!'))?></div>
 
-<table id="filestable" data-allow-public-upload="<?php p($_['publicUploadEnabled'])?>" data-preview-x="36" data-preview-y="36">
+<table id="filestable" data-allow-public-upload="<?php p($_['publicUploadEnabled'])?>" data-preview-x="72" data-preview-y="72">
 	<thead>
 		<tr>
 			<th id='headerName' class="hidden column-name">
